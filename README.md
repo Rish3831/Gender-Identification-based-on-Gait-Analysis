@@ -4,7 +4,7 @@ This project applies machine learning and deep learning models to analyze gait d
 
 ![Screenshot 2024-10-28 163817](https://github.com/user-attachments/assets/860c6b08-357e-47dd-84b5-7b474986c505)
 
-
+![Screenshot 2024-10-28 163844](https://github.com/user-attachments/assets/73536c35-6512-4896-9d82-e8324f9e9f1d)
 
 
 ## Project Structure
