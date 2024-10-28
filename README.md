@@ -2,6 +2,10 @@
 
 This project applies machine learning and deep learning models to analyze gait data for identifying the gender of individuals based on their walking patterns. It utilizes the CASIA-B gait dataset, involving Convolutional Neural Networks (CNN) and machine learning algorithms like Random Forest, Decision Tree, and K-Nearest Neighbors (KNN) to classify and evaluate performance.
 
+![Screenshot 2024-10-28 163817](https://github.com/user-attachments/assets/860c6b08-357e-47dd-84b5-7b474986c505)
+
+
+
 
 ## Project Structure
 
