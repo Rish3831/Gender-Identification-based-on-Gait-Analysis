@@ -66,9 +66,12 @@ pip install -r requirements.txt
 ```
 
 ## Contact
-**Author**: Rishwanth Mithra
+**Author**: Rishwanth Mithra 
+
 **Supervisor**: Dr. Saideh Ferdowsi
+
 **Institution**: University of Essex, School of Mathematics, Statistics, and Actuarial Science
+
 **Date**: September 2024
 
 This project demonstrates the feasibility and accuracy of using gait as a biometric for gender classification, providing insights for future research and applications.
